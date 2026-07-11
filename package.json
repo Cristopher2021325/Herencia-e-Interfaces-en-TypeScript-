@@ -1,0 +1,13 @@
+{
+  "name": "persistencia-json",
+  "version": "1.0.0",
+  "description": "Módulo de persistencia con JSON y fs/promises",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.12.7"
+  }
+}
